@@ -1,1 +1,10 @@
-# yu
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Arenda</title>
+</head>
+<body>
+<h1>Этот раздел пока не готов</h1>
+</body>
+</html>

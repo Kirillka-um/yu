@@ -1,0 +1,17 @@
+{
+  "name": "TAIL",
+  "about": "Мы делаем автоматы для аренды скейтбордов,а также фингербордов в помещениях.С этим проектом людям больше не придётся постоянно с собой скейты.А кафе и других местах ожидание будет не таким скучным.",
+  "version": "1.0",
+  "notes": "нет",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
